@@ -1,3 +1,6 @@
+//Given a mocked Input, Sort the output in order to have the zeroes first
+//and keep the other itens in the same line order.
+
 public class Sorting{
 
   public static void main(String []args){
