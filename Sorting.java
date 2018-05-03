@@ -1,4 +1,4 @@
-//Given a mocked Input, Sort the output in order to have the zeroes first
+//Given a fixed Input, Sort the output in order to have the zeroes first
 //and keep the other itens in the same line order.
 
 public class Sorting{
